@@ -1,0 +1,36 @@
+# Node.js and npm-related
+node_modules/
+package-lock.json
+
+# Build output (Webpack, Parcel, etc.)
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Temporary files from text editors
+*.swp
+*.swo
+
+# Log files
+*.log
+
+# Environment files (for storing API keys or secrets)
+.env
+
+# Backup or temporary files
+*.bak
+*.tmp
+
+# Ignore compiled CSS if you're using a preprocessor (like SCSS)
+*.css.map
+
+# Ignore minified files if you're using a build tool
+*.min.js
+*.min.css
